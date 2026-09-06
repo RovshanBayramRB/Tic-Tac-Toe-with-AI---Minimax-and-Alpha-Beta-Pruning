@@ -84,3 +84,14 @@ python tic_tac_toe_alpha_beta.py
 ```
 
 Requires Python 3 with Tkinter (bundled on Windows and macOS; on Debian/Ubuntu install `python3-tk`). A display is required — these will not run headless.
+
+---
+
+## Repository structure
+
+```
+.
+├── tic_tac_toe_alpha_beta.py   # Both algorithms, threaded search
+├── tic_tac_toe_mini_max.py     # Minimax only, main-thread search
+└── README.md
+```
