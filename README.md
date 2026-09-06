@@ -1,4 +1,4 @@
-# Tic Tac Toe with AI — Minimax & Alpha-Beta Pruning
+# Tic Tac Toe with AI — Minimax and Alpha-Beta Pruning
 
 A Tkinter tic-tac-toe game with two adversarial search opponents — **minimax** and **alpha-beta pruning** — playable against a human, against each other, or human vs human.
 
