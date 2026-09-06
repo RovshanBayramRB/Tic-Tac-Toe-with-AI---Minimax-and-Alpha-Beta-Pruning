@@ -78,7 +78,7 @@ Any pairing works, including AI vs AI — useful for watching two optimal player
 
 ```bash
 git clone https://github.com/RovshanBayramRB/AI-for-Tic-Tac-Toe.git
-cd Tic-Tac-Toe-with-AI---Minimax!and-Alpha---Beta-Pruning
+cd Tic-Tac-Toe-with-AI---Minimax-and-Alpha---Beta-Pruning
 pip install numpy
 python tic_tac_toe_alpha_beta.py
 ```
